@@ -4,3 +4,44 @@ div #myid {
 	text-align: center;
 	font-family: "Arial Black";
 }
+
+div #cicodecamp {
+	text-align: center;
+	border-style: solid;
+}
+
+div #pennapps {
+	text-align: center;
+	border-style: solid;
+}
+
+div #codeday {
+	text-align: center;
+	border-style: solid;
+}
+
+div #localhackday {
+	text-align: center;
+	border-style: solid;
+}
+
+div #mhacks {
+	text-align: center;
+	border-style: solid;
+}
+
+div #calhacks {
+	text-align: center;
+	border-style: solid;
+}
+
+div #list {
+	border-style: solid;
+	margin: auto;
+
+	text-align: center;
+}
+
+div #top {
+	padding-bottom: 10px;
+}
