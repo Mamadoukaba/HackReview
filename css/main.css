@@ -1,68 +1,71 @@
-html {
-	font-size: 24px;
-}
-
-div #myid {
-	background-color: blue;
-	margin: auto;
-	text-align: center;
-	font-family: "Arial Black";
-}
-	
 .fullWidth {
 	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: initial;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
 }
 
-div #top {
-	border-style: solid;
+#title {
+	text-align: left;
+	background-color: blue;
+	height: 100px;
+	padding-top: 10px;
+}
+
+#title h1 {
+	font-size: 30px;
+}
+
+#cicodecamp {
+	height: 100px;
 	background-color: red;
-	margin: auto;
-	text-align: center;
-	font-family: "Arial Black";
-	margin-bottom: 10px;
 }
 
-div #list {
-	border-style: solid;
-	margin: auto;
-	text-align: center;
+#pennapps {
+	height: 100px;
+	background-color: #33ccff;
 }
 
-div #cicodecamp {
-	text-align: center;
+#codeday {
+	height: 100px;
+	background-color: #ffcc66;
 }
 
-div #pennapps {
-	text-align: center;
-	border-style: solid;
+#localhackday {
+	height: 100px;
+	background-color: #cc6600;
 }
 
-div #codeday {
-	text-align: center;
-	border-style: solid;
+#mhacks {
+	height: 100px;
+	background-color: #ff0066;
 }
 
-div #localhackday {
-	text-align: center;
-	border-style: solid;
+#calhacks {
+	height: 100px;
+	background-color: #ff9999;
 }
-
-div #mhacks {
-	text-align: center;
-	border-style: solid;
-}
-
-div #calhacks {
-	text-align: center;
-	border-style: solid;
-}
-
-#starbutton {
+#starbutton1 {
 	float: right;
-	right: 50px;
 }
 
+#starbutton2 {
+	float: right;
+}
+
+#starbutton3 {
+	float: right;
+}
+
+#starbutton4 {
+	float: right;
+}
+
+#starbutton5 {
+	float: right;
+}
+
+#starbutton6 {
+	float: right;
+}
 
