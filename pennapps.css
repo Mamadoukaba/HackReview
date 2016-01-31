@@ -1,7 +1,3 @@
-body {
-	background-color: #6666ff;
-}
-
 #title {
 	text-align: center;
 	height: 150px;
@@ -96,9 +92,4 @@ label.star:before {
 #learningexperiencereview p {
 	text-align: center;
 	font-size: 30px;
-}
-
-#submitbutton {
-	text-align: center;
-	outline: none;
 }

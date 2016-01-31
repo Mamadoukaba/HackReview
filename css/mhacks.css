@@ -1,5 +1,5 @@
 body {
-	background-color: #6666ff;
+	background-color: #33cccc;
 }
 
 #title {
@@ -100,5 +100,4 @@ label.star:before {
 
 #submitbutton {
 	text-align: center;
-	outline: none;
 }
