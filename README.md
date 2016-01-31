@@ -1,2 +1,2 @@
 # HackReview
-Review hackathons based on experiences
+Review hackathons based on experiences.
